@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 XCloud Search — AI-Powered CLI Search Engine
+# 🔍 CLI AI Search — AI-Powered CLI Search Engine
 
 ### A terminal-based search engine that fetches real Google results and synthesises them into clean, intelligent answers using a free AI model — in under 5 seconds.
 
@@ -26,7 +26,7 @@
 
 ## What Is This?
 
-**XCloud Search** is a custom AI-powered search engine that runs entirely inside your terminal.
+**CLI AI Search** is a custom AI-powered search engine that runs entirely inside your terminal.
 
 You type a question. It searches Google in real time via the Serper API. The raw results are fed to **Llama 3.3 70B** — a state-of-the-art open-source AI model running on Groq's ultra-fast infrastructure. The AI reads all the results, filters the noise, and hands you back one clean, sourced answer.
 
